@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "",
           "archiveFileName": "RoboHat-0.0.26.zip",
-          "checksum": "SHA-256:1927B1B20B0FFA36D1F1BFBA028F90756CEE82B42227C898417ABCFA56ADC6F6",
-          "size": "8773152",
+          "checksum": "SHA-256: E1BC2E669CE5AEA5CB2953EF8DA456E5EF3984DE0EFE72676180FC4579EEF016",
+          "size": "6042023",
           "boards": [
             {
               "name": "NuNumpad"
@@ -57,9 +57,9 @@
           "version": "1.0.1",
           "category": "Contributed",
           "url": "",
-          "archiveFileName": ".zip",
-          "checksum": "",
-          "size": "",
+          "archiveFileName": "NuNumpad-1.0.1.zip",
+          "checksum": "SHA-256: E1BC2E669CE5AEA5CB2953EF8DA456E5EF3984DE0EFE72676180FC4579EEF016",
+          "size": "NuNumpad-1.0.1.zip",
           "boards": [
             {
               "name": "NuNumpad"
