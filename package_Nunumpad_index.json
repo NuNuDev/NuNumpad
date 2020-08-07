@@ -51,53 +51,5 @@
             }
           ]
         },
-        {
-          "name": "NuNumpad",
-          "architecture": "32U4",
-          "version": "1.0.1",
-          "category": "Contributed",
-          "url": "https://github.com/NuNuDev/NuNumpad/blob/master/NuNumpad-1.0.1.zip?raw=true",
-          "archiveFileName": "NuNumpad-1.0.1.zip",
-          "checksum": "SHA-256: E1BC2E669CE5AEA5CB2953EF8DA456E5EF3984DE0EFE72676180FC4579EEF016",
-          "size": "6042023",
-          "boards": [
-            {
-              "name": "NuNumpad"
-            }
-          ],
-          "toolsDependencies":
-          [
-            {
-              "packager": "arduino",
-              "name": "arm-none-eabi-gcc",
-              "version": "7-2017q4"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.8.0-48-gb176eee"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.10.0-arduino9"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS",
-              "version": "4.5.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS-Atmel",
-              "version": "1.2.0"
-            }
-          ]
-        }
-      ],
-      "tools":
-      [
-      ]
-    }
-  ]
-}
+ }
+        
