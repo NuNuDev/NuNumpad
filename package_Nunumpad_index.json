@@ -14,7 +14,7 @@
           "version": "1.0.1",
           "category": "Contributed",
           "url": "https://github.com/NuNuDev/NuNumpad/blob/master/NuNumpad-1.0.1.zip?raw=true",
-          "archiveFileName": "RoboHat-0.0.26.zip",
+          "archiveFileName": "NuNumpad-1.0.1.zip",
           "checksum": "SHA-256: E1BC2E669CE5AEA5CB2953EF8DA456E5EF3984DE0EFE72676180FC4579EEF016",
           "size": "6042023",
           "boards": [
@@ -59,7 +59,7 @@
           "url": "https://github.com/NuNuDev/NuNumpad/blob/master/NuNumpad-1.0.1.zip?raw=true",
           "archiveFileName": "NuNumpad-1.0.1.zip",
           "checksum": "SHA-256: E1BC2E669CE5AEA5CB2953EF8DA456E5EF3984DE0EFE72676180FC4579EEF016",
-          "size": "NuNumpad-1.0.1.zip",
+          "size": "6042023",
           "boards": [
             {
               "name": "NuNumpad"
